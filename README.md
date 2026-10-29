@@ -13,7 +13,7 @@ A simple todo list app built with HTML, CSS and JavaScript to manage daily tasks
 - JavaScript
 
 ## Live demo
-https://milansah17.github.io/todo-list-app/
+https://milansah17.github.io/project-todo-app/
 
 ## How to run locally
 1. Download or clone this repository.
